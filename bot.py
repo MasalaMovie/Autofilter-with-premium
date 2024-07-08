@@ -41,7 +41,7 @@ class Bot(Client):
         self.username = '@' + me.username
         self.loop.create_task(check_expired_premium(self))
         print(f"{me.first_name} is started now ❤️")
-        tz = pytz.timezone('Asia/Kolkata')
+        tz = pytz.timezone('Asia/Kathmandu')
         today = date.today()
         now = datetime.datetime.now(tz)
         timee = now.strftime("%H:%M:%S %p") 
@@ -49,7 +49,7 @@ class Bot(Client):
         await app.setup()
         bind_address = "0.0.0.0"
         await web.TCPSite(app, bind_address, PORT).start()
-        await self.send_message(chat_id=LOG_CHANNEL, text=f"<b>{me.mention} ʀᴇsᴛᴀʀᴛᴇᴅ 🤖\n\n📆 ᴅᴀᴛᴇ - <code>{today}</code>\n🕙 ᴛɪᴍᴇ - <code>{timee}</code>\n🌍 ᴛɪᴍᴇ ᴢᴏɴᴇ - <code>Asia/Kolkata</code></b>")
+        await self.send_message(chat_id=LOG_CHANNEL, text=f"<b>{me.mention} ʀᴇsᴛᴀʀᴛᴇᴅ 🤖\n\n📆 ᴅᴀᴛᴇ - <code>{today}</code>\n🕙 ᴛɪᴍᴇ - <code>{timee}</code>\n🌍 ᴛɪᴍᴇ ᴢᴏɴᴇ - <code>Asia/Kathmandu</code></b>")
         # await self.send_message(chat_id=SUPPORT_GROUP, text=f"<b>ʀᴀᴅʜᴇ ʀᴀᴅʜᴇ ᴇᴠᴇʀʏᴏɴᴇ 😚</b>")
         tt = time.time() - st
         seconds = int(datetime.timedelta(seconds=tt).seconds)
