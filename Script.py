@@ -154,8 +154,9 @@ User - {}"""
     PLAN_TEXT = """<b>ᴡᴇ ᴀʀᴇ ᴘʀᴏᴠɪᴅɪɴɢ ᴘʀᴇᴍɪᴜᴍ ᴀᴛ ᴛʜᴇ ʟᴏᴡᴇsᴛ ᴘʀɪᴄᴇs:
     
 
-50 ʀᴜᴘᴇᴇs ғᴏʀ ᴛᴡᴏ ᴍᴏɴᴛʜ 😚
-100 ʀᴜᴘᴇᴇs ғᴏʀ ᴛᴡᴏ ᴍᴏɴᴛʜs 😗
+50 ʀᴜᴘᴇᴇs ғᴏʀ ᴛʜʀᴇᴇ ᴍᴏɴᴛʜ 😚
+80 ʀᴜᴘᴇᴇs ғᴏʀ ꜱɪx ᴍᴏɴᴛʜs 😗
+150 ʀᴜᴘᴇᴇs ғᴏʀ 1 ʏᴇᴀʀ 😳
 
 ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ʙᴜʏɪɴɢ ↡↡↡
 </b>"""
@@ -169,11 +170,11 @@ User - {}"""
 
 4:- ᴛʜᴇɴ sᴇᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴅᴇᴛᴀɪʟs ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-<code>/set_shortner ez4short.com 837b7a64653d1b435f5e20a237840f1251d0c1ce</code>
+<code>/set_shortner nestshortener.com b06c63fc6944ea26903862a8be4ad04247a5e998</code>
 
-<code>/set_shortner_2 omnifly.in.net f287e7e9b1a23c34f542f77787d39607cae36a4d</code>
+<code>/set_shortner_2 vnshortener.com be363fc95f1e53c0d58ed98430fc5cc3eb767ae1</code>
 
-<code>/set_shortner_3 shortslink.in 06b24eb6bbb025713cd522fb3f696b6d5de11354</code>
+<code>/set_shortner_3 adrinolinks.in c1a1abd55b3b36b83d3742d9ac4eee6f0bd34554</code>
 
 <code>/set_tutorial https://t.me/MovieMasala_Update/13</code>
 
